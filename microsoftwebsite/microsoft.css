@@ -1,0 +1,40 @@
+*{
+    text-transform: capitalize;
+    box-sizing: border-box;
+}
+.hover:hover{
+    text-decoration: underline;
+}
+.bg-img{
+    background-image: url(/Highlight-Surface-Pro-9-All-Colors-FY23HOL_VP5-1920x600.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+}
+.for-pd{
+    padding-top: 200px;
+}
+#button{
+    font-weight: bolder;
+}
+.margin{
+    margin-left: 120px;
+}
+.for-p{
+    padding-left: 80px;
+}
+.for-bg-img{
+    background-image: url(/gldn-MSFT-hero-Edge_VP5-1596x600.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+.for-position{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+footer{
+    height: 500px;
+}
